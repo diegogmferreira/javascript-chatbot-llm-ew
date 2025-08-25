@@ -11,7 +11,7 @@
 
 Construindo um widget de chatbot embarcado que roda totalmente no navegador, explorando os recursos experimentais de AI locais da Chrome Prompt API.
 
-[⭐ Deixe uma estrela](../../stargazers) • [Reporte um problema](../../issues) • [Entre para a comunidade](https://discord.gg/2vvUTUb)
+⭐ [Deixe uma estrela](../../stargazers) • [Entre para a comunidade](https://discord.gg/2vvUTUb) • [Reporte um problema](../../issues)
 
 </div>
 
