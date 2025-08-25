@@ -1,10 +1,27 @@
 <div align="center">
+# <!-- Badges -->
+<p align="center">
+    <a href="https://github.com/ErickWendel/semana-javascript-expert09/stargazers">
+        <img src="https://img.shields.io/github/stars/ErickWendel/semana-javascript-expert09?style=social" alt="GitHub stars" />
+    </a>
+    <a href="https://github.com/ErickWendel/semana-javascript-expert09/fork">
+        <img src="https://img.shields.io/github/forks/ErickWendel/semana-javascript-expert09?style=social" alt="GitHub forks" />
+    </a>
+    <a href="https://github.com/ErickWendel/semana-javascript-expert09/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/ErickWendel/semana-javascript-expert09" alt="License" />
+    </a>
+    <img src="https://img.shields.io/github/last-commit/ErickWendel/semana-javascript-expert09" alt="Last Commit" />
+    <img src="https://img.shields.io/badge/Made%20with-Node.js-green" alt="Node.js" />
+    <a href="https://ew.academy">
+        <img src="https://img.shields.io/badge/EW%20Academy-Inscreva--se-blue" alt="EW Academy" />
+    </a>
+</p>
 
 # Chatbot Inteligente 100% Offline com Prompt API do Chrome
 
 Construindo um widget de chatbot embarcado que roda totalmente no navegador, explorando os recursos experimentais de AI locais da Chrome Prompt API.
 
-[⭐ Deixe uma estrela](../../stargazers) • [Reporte um problema](../../issues) • Compartilhe com a comunidade
+[⭐ Deixe uma estrela](../../stargazers) • [Reporte um problema](../../issues) • [Entre para a comunidade](https://discord.gg/2vvUTUb)
 
 </div>
 
