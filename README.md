@@ -10,9 +10,6 @@
         <img src="https://img.shields.io/github/forks/ErickWendel/semana-javascript-expert09?style=social" alt="GitHub forks" />
     </a>
     <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow" alt="JavaScript" />
-    <a href="https://github.com/ErickWendel/semana-javascript-expert09/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/ErickWendel/semana-javascript-expert09" alt="License" />
-    </a>
     <img src="https://img.shields.io/github/last-commit/ErickWendel/semana-javascript-expert09" alt="Last Commit" />
 
 </p>
