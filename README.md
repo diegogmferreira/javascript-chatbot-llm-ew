@@ -27,9 +27,16 @@ Este repositório faz parte da **Semana JS Expert 09**, evento gratuito ministra
 
 As aulas completas estão disponíveis em:
 
-👉 [EW Academy](https://now.ew.academy/semana-js-expert-9?utm_source=githubreadme)
+👉 [Semana JS Expert 09 na EW Academy](https://now.ew.academy/semana-js-expert-9?utm_source=githubreadme)
 
 > Aproveite enquanto o acesso gratuito estiver liberado! Compartilhe o link com quem quer dominar JavaScript moderno.
+
+### Certificado
+
+Todos que concluirem todas as aulas até Domingo, 31/08/2025, receberá seu certificado de conclusão (bonitão) como o abaixo:
+
+![JavaScript](./assets/certificate.png)
+
 
 ---
 ### Live demo
