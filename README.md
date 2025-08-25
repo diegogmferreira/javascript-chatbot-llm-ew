@@ -33,10 +33,9 @@ As aulas completas estão disponíveis em:
 
 ### Certificado
 
-Todos que concluirem todas as aulas até Domingo, 31/08/2025, receberá seu certificado de conclusão (bonitão) como o abaixo:
+Caso você conclua todas as aulas e desafios, receberá este certificado de conclusão (bonitão):
 
 ![JavaScript](./assets/certificate.png)
-
 
 ---
 ### Live demo
