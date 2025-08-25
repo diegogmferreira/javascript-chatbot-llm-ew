@@ -1,18 +1,11 @@
 <div align="center">
-<p align="center">
-    <a href="https://now.ew.academy/semana-js-expert-9?utm_source=githubreadme">
-        <img src="https://img.shields.io/badge/Semana JS Expert 09-Inscreva--se-green" alt="EW Academy" />
-    </a>
-    <a href="https://github.com/ErickWendel/semana-javascript-expert09/stargazers">
-        <img src="https://img.shields.io/github/stars/ErickWendel/semana-javascript-expert09?style=social" alt="GitHub stars" />
-    </a>
-    <a href="https://github.com/ErickWendel/semana-javascript-expert09/fork">
-        <img src="https://img.shields.io/github/forks/ErickWendel/semana-javascript-expert09?style=social" alt="GitHub forks" />
-    </a>
-    <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow" alt="JavaScript" />
-    <img src="https://img.shields.io/github/last-commit/ErickWendel/semana-javascript-expert09" alt="Last Commit" />
 
-</p>
+[![EW Academy](https://img.shields.io/badge/Semana%20JS%20Expert%2009-Inscreva--se-green)](https://now.ew.academy/semana-js-expert-9?utm_source=githubreadme)
+[![GitHub stars](https://img.shields.io/github/stars/ErickWendel/semana-javascript-expert09?style=social)](https://github.com/ErickWendel/semana-javascript-expert09/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ErickWendel/semana-javascript-expert09?style=social)](https://github.com/ErickWendel/semana-javascript-expert09/fork)
+![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow)
+![Last Commit](https://img.shields.io/github/last-commit/ErickWendel/semana-javascript-expert09)
+
 
 # Chatbot Inteligente 100% Offline com Prompt API do Chrome
 
