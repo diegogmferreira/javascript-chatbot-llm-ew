@@ -1,20 +1,20 @@
 <div align="center">
-# <!-- Badges -->
 <p align="center">
+    <a href="https://now.ew.academy/semana-js-expert-9?utm_source=githubreadme">
+        <img src="https://img.shields.io/badge/Semana JS Expert 09-Inscreva--se-green" alt="EW Academy" />
+    </a>
     <a href="https://github.com/ErickWendel/semana-javascript-expert09/stargazers">
         <img src="https://img.shields.io/github/stars/ErickWendel/semana-javascript-expert09?style=social" alt="GitHub stars" />
     </a>
     <a href="https://github.com/ErickWendel/semana-javascript-expert09/fork">
         <img src="https://img.shields.io/github/forks/ErickWendel/semana-javascript-expert09?style=social" alt="GitHub forks" />
     </a>
+    <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow" alt="JavaScript" />
     <a href="https://github.com/ErickWendel/semana-javascript-expert09/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/ErickWendel/semana-javascript-expert09" alt="License" />
     </a>
     <img src="https://img.shields.io/github/last-commit/ErickWendel/semana-javascript-expert09" alt="Last Commit" />
-    <img src="https://img.shields.io/badge/Made%20with-Node.js-green" alt="Node.js" />
-    <a href="https://ew.academy">
-        <img src="https://img.shields.io/badge/EW%20Academy-Inscreva--se-blue" alt="EW Academy" />
-    </a>
+
 </p>
 
 # Chatbot Inteligente 100% Offline com Prompt API do Chrome
