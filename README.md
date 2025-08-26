@@ -139,7 +139,7 @@ Você publicar os arquivos da pasta `sdk/` na Web (um cdn talvez) e referenciar 
 </head>
 
 <body>
-    <script type="module" src="https://SEU_CDN/chatbot/src/index.js"></script>
+    <script type="module" src="https://erickwendel.github.io/semana-javascript-expert09/aula01-criando-llmstxt/sdk/src/index.js"></script>
 </body>
 
 </html>
