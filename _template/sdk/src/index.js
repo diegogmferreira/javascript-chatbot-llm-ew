@@ -5,11 +5,12 @@ import { PromptService } from './services/promptService.js'
 import { ChatbotController } from './controllers/chatBotController.js';
 
 (async () => {
+    const root = window.location.href
     const [css, html, systemPrompt, config] = await Promise.all([
-        fetch('/sdk/ew-chatbot.css').then(r => r.text()),
-        fetch('/sdk/ew-chatbot.html').then(r => r.text()),
-        fetch('/botData/systemPrompt.txt').then(r => r.text()),
-        fetch('/botData/chatbot-config.json').then(r => r.json()),
+        fetch(`${root}/sdk/ew-chatbot.css`).then(r => r.text()),
+        fetch(`${root}/sdk/ew-chatbot.html`).then(r => r.text()),
+        fetch(`${root}/botData/systemPrompt.txt`).then(r => r.text()),
+        fetch(`${root}/botData/chatbot-config.json`).then(r => r.json()),
     ]);
     const style = document.createElement('style');
     style.textContent = css;
