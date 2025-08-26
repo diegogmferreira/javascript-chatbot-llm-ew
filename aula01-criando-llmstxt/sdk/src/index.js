@@ -5,9 +5,11 @@ import { PromptService } from './services/promptService.js'
 import { ChatbotController } from './controllers/chatBotController.js';
 
 (async () => {
+    const root = new URL('../../', import.meta.url);
+    const fromMainProject = (path) => new URL(path, root).toString();
     const [css, html, systemPrompt, config] = await Promise.all([
-        fetch('./sdk/ew-chatbot.css').then(r => r.text()),
-        fetch('./sdk/ew-chatbot.html').then(r => r.text()),
+        fetch(fromMainProject('./sdk/ew-chatbot.css')).then(r => r.text()),
+        fetch(fromMainProject('./sdk/ew-chatbot.html')).then(r => r.text()),
         fetch('./botData/systemPrompt.txt').then(r => r.text()),
         fetch('./botData/chatbot-config.json').then(r => r.json()),
     ]);
