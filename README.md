@@ -41,6 +41,7 @@ Caso você conclua todas as aulas e desafios, receberá este certificado de conc
 ### Live demo
 
 - Teste a primeira aula: https://erickwendel.github.io/semana-javascript-expert09/aula01-criando-llmstxt
+- Teste a segunda aula: https://erickwendel.github.io/semana-javascript-expert09/aula02-integrando-ai
 
 ---
 
