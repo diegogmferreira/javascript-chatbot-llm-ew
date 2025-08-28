@@ -112,9 +112,9 @@ Clone o repositório e instale as dependências dentro da pasta da aula desejada
 
 Exemplo para acessar a primeira aula:
 ```bash
-git clone https://github.com/ErickWendel/ai-chat-button.git
+git clone https://github.com/erickwendel/semana-javascript-expert09
 
-cd ai-chat-button/aula01-criando-llmstxt
+cd semana-javascript-expert09/aula01-criando-llmstxt
 
 npm ci
 npm start
